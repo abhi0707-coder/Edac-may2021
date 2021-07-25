@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY Favourite Sites</title>
+</head>
+<body>
+    <h1>  Here are my Favourite sites</h1>
+    <p> click on a name to go to that page </p>
+    <ul>
+        <li><a href="https://twitter.com">Twitter</a></li>
+        <li><a href="https://www.youtube.com">Youtube</a></li>
+        <li><a href="https://facebook.com">Facebook</a></li>
+        <li><a href="https://Wikipedia.org">Wikipedia</a></li>
+        <li><a href="https://www.netflix.com/in/">Netflix</a></li>
+    </ul>
+   
+</body>
+</html>
